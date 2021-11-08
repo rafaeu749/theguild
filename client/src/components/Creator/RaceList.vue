@@ -85,6 +85,6 @@ const capitalize = function (str) {
 	overflow: auto;
 }
 .lighter {
-	background-color: #405b77;
+	background-color: #88a7c2;
 }
 </style>
